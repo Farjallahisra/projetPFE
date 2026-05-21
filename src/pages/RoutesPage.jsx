@@ -1,0 +1,1 @@
+export default function X() { return <div><h1>Page X</h1></div>; }
